@@ -21,5 +21,4 @@ def get_channel(node, group)    # function name is get_channel
     group:this is the group the channel is a part of, or maybe vice versa
 this function returns something but im not sure what it is, the function appears to connect you to a channel 
 
-print(get_username(),get_group(),get_message())
-print(type(initialize_chat()))
+
